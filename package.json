@@ -1,0 +1,56 @@
+{
+  "_from": "couchdb-import@1.0.1",
+  "_id": "couchdb-import@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-QHwuyj0nqe1MR/nPFHOi2HABYKA1T2VGCaZ9sq4VpFcn+k5HezdoiLj4cCRUdULJjAB/lx8zdcKYQnu45r0AbA==",
+  "_location": "/couchdb-import",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "couchdb-import@1.0.1",
+    "name": "couchdb-import",
+    "escapedName": "couchdb-import",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/couchdb-import/-/couchdb-import-1.0.1.tgz",
+  "_shasum": "4c979480b067b2affa6f404168b1ec1ff1708ef2",
+  "_spec": "couchdb-import@1.0.1",
+  "_where": "/home/veto/webs/merc",
+  "author": {
+    "name": "Veto",
+    "email": "veto@myrida.com"
+  },
+  "bin": {
+    "couchdb-import": "index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "pouchdb": "^7.1.1",
+    "pouchdb-adapter-http": "^7.1.1",
+    "pouchdb-load": "^1.4.6",
+    "yargs": "^14.2.0"
+  },
+  "deprecated": false,
+  "description": "Import a couchdb-export file into a  CouchDB database",
+  "homepage": "http://calantas.org/couchdb-export",
+  "keywords": [
+    "couchDb",
+    "dump",
+    "export",
+    "pouchdb"
+  ],
+  "license": "GPL-3.0-or-later",
+  "main": "index.js",
+  "name": "couchdb-import",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
