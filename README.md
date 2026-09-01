@@ -1,3 +1,4 @@
+<img src="couchdb-import.svg" alt="couchdb-import" width="120">
 couchdb-import
 ======
 ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/CouchDB.svg/290px-CouchDB.svg.png)
